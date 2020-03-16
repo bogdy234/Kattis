@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574723490 source:g:\info problems\kattis\ceau\i've been everywhere, man kattis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

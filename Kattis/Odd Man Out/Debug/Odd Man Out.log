@@ -1,0 +1,3 @@
+﻿  Odd Man Out.cpp
+G:\Info Problems\Kattis\ceau\Odd Man Out\Odd Man Out.cpp(21,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Odd Man Out.vcxproj -> G:\Info Problems\Kattis\ceau\Odd Man Out\Debug\Odd Man Out.exe

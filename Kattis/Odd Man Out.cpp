@@ -25,7 +25,7 @@ int main()
 		for (int i=0;i<g;i=i+2)
 			if (c[i] != c[i + 1])
 			{
-				printf("%lli\n", c[i]);
+				printf("case #%d: %lli\n",con+1, c[i]);
 				break;
 			}
 	}
